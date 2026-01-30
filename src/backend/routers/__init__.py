@@ -1,2 +1,2 @@
 from . import activities
-from . import auth
+from . import authfrom . import announcements
